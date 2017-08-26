@@ -154,12 +154,12 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="taskLabel" destination="jFz-JK-mnB" id="yQu-h1-wDm"/>
+                        <outlet property="taskLabel" destination="jFz-JK-mnB" id="aMU-zc-AC2"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="djQ-pw-IHo" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1809" y="803"/>
+            <point key="canvasLocation" x="1809" y="880"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="6sA-BQ-sir">
